@@ -8,3 +8,9 @@ ajouter des modification au dernier commit:
 ```
 git commit --amend
 ```
+
+changement modification
+```
+git 
+```
+
