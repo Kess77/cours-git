@@ -16,4 +16,4 @@ git
 ```
 git mama
 ```
-
+ajoute une astuce non fast forward
